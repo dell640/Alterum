@@ -3,7 +3,7 @@
 #include <unistd.h>			//Used for UART
 #include <fcntl.h>			//Used for UART
 #include <termios.h>		//Used for UART
-#include <crc16.h>		//Used for UART
+#include <crc16.h>
 #include <mydefs.h>
 
 
